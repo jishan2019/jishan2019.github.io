@@ -5,13 +5,12 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+I'm an apsiring data scientist, experienced with Python and R programming. I have solid understanding of machine learning techniques and algorithms. I have machine learning projects solving real-business problems on financial and healthcare data, and experience on dashboard designing, and cloud computing.
 
 
-• Data Science Intern with Industry experience on Financial and Healthcare data
-• Solid understanding of Machine Learning techniques and Algorithms; 2+ years of experience in Data Science: Programming in Python/R/MySQL; Dashboard Designing; Cloud Computing Services experience
-• A multi-tasker, a fast learner, with intellectual curiosity, critical thinking, proactive problem-solving, and effective communication
+I am a multi-tasker and a fast learner, with intellectual curiosity, critical thinking, proactive problem-solving, and effective communication. I love working on projects which are full of challenges, so feel free to reach out.
 
+------------------------------------------------------------------------------------------------------------------------------------------
 Technical Skills:
 Languages & Tools: Python, R, Git/GitHub, Bash, Pyspark, AWS, R-shiny, AMPL, Weka
 Databases: MySQL, SQLite, Hadoop
