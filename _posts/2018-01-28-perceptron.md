@@ -41,12 +41,6 @@ Python code block:
       return z
 ```
 
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
 
 Here's some inline code `x+y`.
 
