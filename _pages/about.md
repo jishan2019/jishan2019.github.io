@@ -13,22 +13,22 @@ I am a multi-tasker and a fast learner, with intellectual curiosity, critical th
 ------------------------------------------------------------------------------------------------------------------------------------------
 **Technical Skills**:
 
-**Languages & Tools**:
+*__Languages & Tools__:
 
-Python, R, Git/GitHub, Bash, Pyspark, AWS, R-shiny, AMPL, Weka\
+Python, R, Git/GitHub, Bash, Pyspark, AWS, R-shiny, AMPL, Weka
 
-**Databases**:
+*__Databases__:
 
 MySQL, SQLite, Hadoop
 
-**Visualization Tools**:
+*__Visualization Tools__:
 
 Matplotlib, Plotly, Seaborn, Bokeh, Tableau, MATLAB
 
-**Frameworks**:
+*__Frameworks__:
 
 Numpy, Pandas, Scikit-learn, Keras, TF-Encrypted, PyTorch, Pysyft, Flask, Tkinter
 
-**Knowledge**:
+*__Knowledge__:
 
 Statistics, Bayesian Statistics, Regression (Linear Regression, Logistic Regression), Decision Tree, Ensemble Learning (RF, Boosting), Regularization (LASSO, Ridge, Elastic Net), KNN-Clustering, Dimensionality Reduction (PCA, LDA), Deep learning (CNN, RNN, LSTM), NLP, Time Series, Web Scraping, Recommendation System, Secure Machine Learning (Data/Model Encryption)
