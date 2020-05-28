@@ -4,7 +4,7 @@ date: 2020-05-27
 tags: [Python, os, organize, office]
 header:
   image: "/images/.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Python, os, organize, office"
 mathjax: "true"
 ---
 
