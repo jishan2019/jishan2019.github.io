@@ -8,10 +8,8 @@ excerpt: "Python, os, organize, office"
 mathjax: "true"
 ---
 
-# How to organizing files using Python
---------------------------------------------------------------------------------------
 
-In this article, we will talk about how to **create** and **write** new files in Python, and how to **organize** the existing files on the hard drive. The tasks will include: \
+In this article, we will talk about how to **create** and **write** new files in Python, and how to **organize** the existing files on the hard drive. The tasks will include:\
 1. Print out the files and folders in a specific dirctory
 2. Traverse, search, and get the information of the files
 3. Create temparary files and folders
